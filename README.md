@@ -13,7 +13,6 @@ I'm a Graphic Designer 🎨, Former Cryptology Specialist 💻 and  Security Coa
 </h2>
 
 ---
-<tab>
 
 <h4 align="center"> 
 
