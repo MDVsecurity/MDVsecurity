@@ -1,24 +1,18 @@
 <tab>
 
 <p align="center">
-
 <a href="https://maudv19.vercel.app" target="_blank" rel="noreferrer"><img src="https://i.postimg.cc/jdv9d2mm/Twitter-banner.png" alt="my banner"></a>
-
 </p>
 
 <h3 align="center">
-
 Hi!, MauDV 👋
-
 </h3>
 
 <h2 align="center">
-
 I'm a Graphic Designer 🎨, Former Cryptology Specialist 💻 and  Security Coach 🔒
-
 </h2>
 
-\
+---
 <tab>
 
 <h4 align="center"> 
@@ -26,7 +20,6 @@ I'm a Graphic Designer 🎨, Former Cryptology Specialist 💻 and  Security Coa
 ## 🔗Here my Links
 
 </h4>
-
 
 [![vercel](https://img.shields.io/badge/MY_WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://maudv19.vercel.app) [![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maudv19/)[![twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MauDV_19)
 
