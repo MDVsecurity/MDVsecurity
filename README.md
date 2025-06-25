@@ -9,7 +9,7 @@ Hi!, MauDV 👋
 </h3>
 
 <h2 align="center">
-I'm a Graphic Designer 🎨, Former Cryptology Specialist 💻 and  Security Coach 🔒
+I'm a Former Cryptology Specialist 💻 and  Security Coach 🔒
 </h2>
 
 ---
