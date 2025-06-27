@@ -20,8 +20,6 @@ I'm a Former Cryptology Specialist 💻 and  Security Coach 🔒
 
 </h4>
 
-[![vercel](https://img.shields.io/badge/MY_WEBSITE-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://maudv19.vercel.app) [![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maudv19/)[![twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MauDV_19)
-
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 \
