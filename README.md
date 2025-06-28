@@ -8,3 +8,10 @@
 Hi!, I'm MauDV 👋
 </h3>
 
+## 👨‍💻 About Me
+
+🎓 **Computer Science Student** &nbsp;&nbsp;|&nbsp;&nbsp;💻 *Python Enthusiast*  
+🔐 **Cybersecurity Explorer** &nbsp;&nbsp;|&nbsp;&nbsp;☁️ *Learning Cloud & DevOps*  
+🧠 *Passionate about AI & Quantum Tech*  
+🌎 *Open Source Lover* &nbsp;&nbsp;|&nbsp;&nbsp;🇲🇽 *Based in Mexico*
+
