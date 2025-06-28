@@ -5,9 +5,6 @@
 </p>
 
 <h3 align="center">
-Hi!, MauDV 👋
+Hi!, I'm MauDV 👋
 </h3>
 
-
-
--->
